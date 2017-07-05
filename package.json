@@ -1,0 +1,8 @@
+{
+  "title": "yarn3822",
+  "name": "yarn3822",
+  "license": "LicenseRef-LICENSE",
+  "dependencies": {
+    "jsonlint": "ginman86/jsonlint"
+  }
+}
